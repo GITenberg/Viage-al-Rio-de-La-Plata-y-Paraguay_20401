@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '9276'
     url: http://www.gutenberg.org/2009/agents/9276
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20401#Viage-al-Rio-de-La-Plata-y-Paraguay
 gutenberg_bookshelf: Argentina
 gutenberg_issued: '2007-01-20'
 gutenberg_type: Text
