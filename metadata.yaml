@@ -1,0 +1,38 @@
+_repo: Viage-al-Rio-de-La-Plata-y-Paraguay_20401
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schmidel, Ulrich
+    aliases:
+    - Schmidl, Ulrich
+    - Schmidt, Ulrich
+    - Schmidl, Utz
+    - Schmidl, Ulrico
+    - Faber, Ulricus
+    gutenberg_agent_id: '9276'
+    url: http://www.gutenberg.org/2009/agents/9276
+description: ''
+gutenberg_bookshelf: Argentina
+gutenberg_issued: '2007-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20401'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of South America'
+- !lcsh 'Paraguay -- History -- To 1811'
+- !lcc 'F2661'
+- !lcsh 'Mendoza, Pedro de, 1487?-1537'
+- !lcc 'F2801'
+- !lcsh 'America -- Discovery and exploration -- Spanish'
+- !lcsh 'Rio de la Plata (Argentina and Uruguay)'
+- !lcsh 'Argentina -- History -- 1535-1617'
+- !lcsh 'America -- Early accounts to 1600'
+title: Viage al Rio de La Plata y Paraguay
+url: http://www.gutenberg.org/ebooks/20401
